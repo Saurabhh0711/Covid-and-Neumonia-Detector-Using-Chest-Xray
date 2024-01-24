@@ -1,4 +1,4 @@
-# Covid-and-Neumonia-Detector-Using-Chest-Xray
+# Covid-and-Pneumonia-Detector-Using-Chest-Xray
 
 This Project aims to Detect COVID-19 and Viral Pneumonia Disease using the X-Ray images of Chest. The website is deployed using Flask and also consistes of the precautions of both the Diseseas as well.
 
